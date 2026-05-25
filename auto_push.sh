@@ -14,5 +14,5 @@ git add .
 git commit -m "WSL 自动每日推送 $(date)"
 
 # 推送到双平台
-git push origin main
+git push github main
 git push gitee main
