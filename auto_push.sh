@@ -6,7 +6,7 @@
 cd /home/qj/python-project
 
 # 拉取最新（避免冲突）
-git pull origin main
+git pull github main
 git pull gitee main
 
 # 提交所有改动
